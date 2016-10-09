@@ -1,0 +1,7 @@
+[
+  {
+    "id": "updatedockerwebsite",
+    "execute-command": "/root/webhooks/updatedockerwebsite.sh",
+    "command-working-directory": "/root"
+  }
+]
